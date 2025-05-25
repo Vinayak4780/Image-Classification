@@ -156,11 +156,3 @@ This implementation achieves reasonable performance without using high-level dee
 
 The solution is compatible with both x86_64 and ARM architectures as it relies only on platform-independent Python libraries (NumPy, Matplotlib, scikit-learn).
 
-## License
-
-MIT
-
-## Author
-
-[Your Name]
-#
