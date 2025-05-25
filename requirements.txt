@@ -1,0 +1,6 @@
+numpy==1.26.3
+matplotlib==3.8.2
+scikit-learn==1.4.0
+tqdm==4.66.1
+opencv-python
+seaborn>=0.11.0
