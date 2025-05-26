@@ -129,7 +129,7 @@ The enhanced model achieves over 60% accuracy on the test set for the three sele
    - ~33% accuracy with basic implementation
    
 2. **Enhanced Model Performance**:
-   - 60%+ accuracy with optimizations
+   - 77% accuracy with optimizations
    - Improved training stability
    - Better generalization to unseen data
    
